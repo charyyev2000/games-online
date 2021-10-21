@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/games-online.git/static/js/main.5bec4f5a.chunk.js",
-    "main.js.map": "/games-online.git/static/js/main.5bec4f5a.chunk.js.map",
+    "main.js": "/games-online.git/static/js/main.802349ed.chunk.js",
+    "main.js.map": "/games-online.git/static/js/main.802349ed.chunk.js.map",
     "runtime-main.js": "/games-online.git/static/js/runtime-main.85a78300.js",
     "runtime-main.js.map": "/games-online.git/static/js/runtime-main.85a78300.js.map",
-    "static/js/2.43b97ad0.chunk.js": "/games-online.git/static/js/2.43b97ad0.chunk.js",
-    "static/js/2.43b97ad0.chunk.js.map": "/games-online.git/static/js/2.43b97ad0.chunk.js.map",
+    "static/js/2.901916df.chunk.js": "/games-online.git/static/js/2.901916df.chunk.js",
+    "static/js/2.901916df.chunk.js.map": "/games-online.git/static/js/2.901916df.chunk.js.map",
     "index.html": "/games-online.git/index.html",
-    "static/js/2.43b97ad0.chunk.js.LICENSE.txt": "/games-online.git/static/js/2.43b97ad0.chunk.js.LICENSE.txt"
+    "static/js/2.901916df.chunk.js.LICENSE.txt": "/games-online.git/static/js/2.901916df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.85a78300.js",
-    "static/js/2.43b97ad0.chunk.js",
-    "static/js/main.5bec4f5a.chunk.js"
+    "static/js/2.901916df.chunk.js",
+    "static/js/main.802349ed.chunk.js"
   ]
 }
