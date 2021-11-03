@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.js": "/games-online.git/static/js/main.802349ed.chunk.js",
-    "main.js.map": "/games-online.git/static/js/main.802349ed.chunk.js.map",
-    "runtime-main.js": "/games-online.git/static/js/runtime-main.85a78300.js",
-    "runtime-main.js.map": "/games-online.git/static/js/runtime-main.85a78300.js.map",
-    "static/js/2.901916df.chunk.js": "/games-online.git/static/js/2.901916df.chunk.js",
-    "static/js/2.901916df.chunk.js.map": "/games-online.git/static/js/2.901916df.chunk.js.map",
-    "index.html": "/games-online.git/index.html",
-    "static/js/2.901916df.chunk.js.LICENSE.txt": "/games-online.git/static/js/2.901916df.chunk.js.LICENSE.txt"
+    "main.js": "/games-online/static/js/main.1abf0cd3.chunk.js",
+    "main.js.map": "/games-online/static/js/main.1abf0cd3.chunk.js.map",
+    "runtime-main.js": "/games-online/static/js/runtime-main.eaf97c5d.js",
+    "runtime-main.js.map": "/games-online/static/js/runtime-main.eaf97c5d.js.map",
+    "static/js/2.70d7219a.chunk.js": "/games-online/static/js/2.70d7219a.chunk.js",
+    "static/js/2.70d7219a.chunk.js.map": "/games-online/static/js/2.70d7219a.chunk.js.map",
+    "static/js/3.dba0040c.chunk.js": "/games-online/static/js/3.dba0040c.chunk.js",
+    "static/js/3.dba0040c.chunk.js.map": "/games-online/static/js/3.dba0040c.chunk.js.map",
+    "index.html": "/games-online/index.html",
+    "static/js/2.70d7219a.chunk.js.LICENSE.txt": "/games-online/static/js/2.70d7219a.chunk.js.LICENSE.txt",
+    "static/media/apple.5757c37e.svg": "/games-online/static/media/apple.5757c37e.svg",
+    "static/media/gamepad.c9269ef5.svg": "/games-online/static/media/gamepad.c9269ef5.svg",
+    "static/media/logo.9b6b8655.svg": "/games-online/static/media/logo.9b6b8655.svg",
+    "static/media/nintendo.f579be04.svg": "/games-online/static/media/nintendo.f579be04.svg",
+    "static/media/playstation.18cc4b9c.svg": "/games-online/static/media/playstation.18cc4b9c.svg",
+    "static/media/steam.d7b8819f.svg": "/games-online/static/media/steam.d7b8819f.svg",
+    "static/media/xbox.3e7db735.svg": "/games-online/static/media/xbox.3e7db735.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.85a78300.js",
-    "static/js/2.901916df.chunk.js",
-    "static/js/main.802349ed.chunk.js"
+    "static/js/runtime-main.eaf97c5d.js",
+    "static/js/2.70d7219a.chunk.js",
+    "static/js/main.1abf0cd3.chunk.js"
   ]
 }
